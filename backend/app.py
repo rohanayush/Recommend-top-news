@@ -45,7 +45,7 @@ def receiveQuery():
     notes_list = [
         "You won't guess what the latest trend in data analysis is!",
     "Hello hello",
-    "This is Shahrukh khan dancing",
+    "This is Sushant Singh Rajput dancing",
         "I",
         "I like to eat apples",
         "10 popular JS IDEs for java developers",
@@ -89,7 +89,7 @@ def getRecommendations():
     global qu
     print("query",qu)
     cn='in'
-    secret='52c11279b478428daeaf4bfecc1c684a'
+    secret='very_very_secret'
     # Define the endpoint
     url = 'https://newsapi.org/v2/everything?'
     # Specify the query and number of returns
